@@ -36,7 +36,7 @@ storageService = require('file-storage-service');
 Set postgres connection:
 
 ```javascript
-storageService.setConnection('tcp://postgres:postgres@127.0.0.1:5432/awattar_files');
+storageService.setConnection('tcp://postgres:postgres@127.0.0.1:5432/postgres');
 ```
 -----------------
 ##### Saving Files
