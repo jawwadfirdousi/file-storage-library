@@ -1,0 +1,3 @@
+{
+  "postgresUrl": "tcp://user:password@host:port/database"
+}
